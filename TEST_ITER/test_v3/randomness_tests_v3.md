@@ -1,18 +1,18 @@
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/8f55feaa-b88b-47d0-ac89-ca7fe01604af" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/8faa14cd-91bf-4d5a-9e95-79c02a64467b" />
 
-Sample size used: 330590
+Sample size used: 336344
 
 Chi-square test:
-Statistic = 183.9705, p-value = 0.0000
+Statistic = 245.5610, p-value = 0.0000
 
 KS test:
-Statistic = 0.0040, p-value = 0.0000
+Statistic = 0.0051, p-value = 0.0000
 
 Runs test:
-Z = -0.5091, p-value = 0.6107
+Z = 1.8337, p-value = 0.0667
 
 Autocorrelation (lag 1):
-0.000030
+-0.001929
 
 Entropy:
 3.9117
